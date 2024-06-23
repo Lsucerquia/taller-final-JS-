@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index2.js",
   "scripts": {
-    "dev": "nodemon src/index2.js"
+    "dev": "nodemon src/index2.js",
+    "start": "node src/index2.js",
 
   },
   "keywords": [],
