@@ -4,7 +4,7 @@
   "main": "index2.js",
   "scripts": {
     "dev": "nodemon src/index2.js",
-    "start": "node src/index2.js",
+    "start": "node src/index2.js"
 
   },
   "keywords": [],
