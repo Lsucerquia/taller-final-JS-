@@ -161,7 +161,7 @@ app.put ("/libros/:id",async(req,res)=>{
 
 
 // para actualizar un libro por su titulo, se valido y se actualizo 3 libros qeu estaban repetidos
-app.put ("/librotitulo",async(req,res)=>{
+/*app.put ("/librotitulo",async(req,res)=>{
     try{
         const actualizarLibro =await Libro.findByIdAndUpdate(
             req.params.titulo,
@@ -185,7 +185,7 @@ app.put ("/librotitulo",async(req,res)=>{
     }
 });
 
-
+*/
 
 // para eliminar un libro , se valido y funciono
 
